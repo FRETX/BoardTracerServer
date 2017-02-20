@@ -1,0 +1,11 @@
+{
+  "name": "BoardTracerServer",
+  "version": "0.0.1",
+  "description": "Simple SQL wrapper web service for FretX web server",
+  "author": "Onur Babacan <onur@fretx.rocks>",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "latest",
+    "sqlite3": "latest"
+  }
+}
